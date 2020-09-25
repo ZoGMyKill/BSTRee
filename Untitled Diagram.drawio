@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T22:26:25.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="WKlBdb26oqe2EH441u2P" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T22:27:48.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="XTiBRHLgeN7jifHOdWNQ" version="13.7.3" type="github">
   <diagram id="bMAKh1SzgdeprP3av_3o" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="682" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
         <mxCell id="DFqQZsUnRYklmzMeklKA-24" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="333" width="31" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="DFqQZsUnRYklmzMeklKA-26" value="delete_all_iterator(leaf)" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
+        <mxCell id="DFqQZsUnRYklmzMeklKA-26" value="delete_all_iterator&lt;br&gt;(leaf)" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="243.75" y="52" width="41" height="74" as="geometry" />
         </mxCell>
         <mxCell id="2G2Jk9yeAb4WGQCSNfQ2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2G2Jk9yeAb4WGQCSNfQ2-1" target="2G2Jk9yeAb4WGQCSNfQ2-3">
@@ -84,7 +84,7 @@
         <mxCell id="2G2Jk9yeAb4WGQCSNfQ2-1" value="Начало" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="574" y="67" width="82" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="2G2Jk9yeAb4WGQCSNfQ2-2" value="delete_all_iterator(leaf)" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="2G2Jk9yeAb4WGQCSNfQ2-2" value="add_element_iterator&lt;br&gt;(value, leaf)" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="656" y="52" width="41" height="74" as="geometry" />
         </mxCell>
         <mxCell id="2G2Jk9yeAb4WGQCSNfQ2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2G2Jk9yeAb4WGQCSNfQ2-3" target="2G2Jk9yeAb4WGQCSNfQ2-5">
